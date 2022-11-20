@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports CA
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sport.canada.ca.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports HD
@@ -74,8 +73,6 @@ http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19065/index.m3u8?checkedby:
 http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19063/index.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",beIN Sports Max 2 HD
 http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19066/index.m3u8?checkedby:iptvcat.net
-
-
 #EXTINF:-1 group-title="Sports International",VIP | BeIN Sport 2 HD en
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9275
 #EXTINF:-1 group-title="Sports International",VIP | beIN Sport 13 HD en
